@@ -1,0 +1,26 @@
+1. Project Title
+Profile Avatar NFT
+
+2. Project Description
+The Profile Avatar NFT is a smart contract on the Stacks blockchain that enables users to mint unique profile avatars as Non-Fungible Tokens (NFTs). Each avatar is linked to a metadata URI that can represent an image or identity used across decentralized applications (dApps) in the Web3 ecosystem.
+
+3. Project Vision
+To empower decentralized identity and personalization by providing users with verifiable, on-chain profile avatars. These NFTs can serve as visual identifiers across dApps, social platforms, and games built on the Stacks blockchain.
+
+4. Future Scope
+Implement full SIP-009 compliance with more utility functions (e.g. transfer, owner-of).
+
+Add support for updating avatar metadata.
+
+Integrate with a decentralized storage service like IPFS for storing avatar images.
+
+Add minting fees or on-chain profile linking.
+
+Build a frontend to interact with the NFT minting UI.
+
+5. Contract Address
+css
+Copy
+Edit
+Contract Address: SP1234EXAMPLE1234.profile-avatar-nft
+Note: Replace with actual contract address after deployment.
