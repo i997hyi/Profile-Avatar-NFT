@@ -18,7 +18,7 @@ Add minting fees or on-chain profile linking.
 
 Build a frontend to interact with the NFT minting UI.
 
-5. Contract Address
+5. Contract AddressSTNEG5CGSACXKJZ2TB9NDVRVMXD09XDB08GBZ7TM.profile-avtar-nft
 css
 Copy
 Edit
