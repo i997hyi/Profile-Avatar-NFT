@@ -23,4 +23,5 @@ css
 Copy
 Edit
 Contract Address: SP1234EXAMPLE1234.profile-avatar-nft
-Note: Replace with actual contract address after deployment.
+Note: Replace with actual contract address after deployment.<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76962c49-62d2-499b-b0a2-7f694989363f" />
+
